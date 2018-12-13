@@ -1,4 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Neighborhood Map (React)
+
+## About 
+This is last project of Udacity front end nanodegree. In this project, there is a map and some nearby locations are shown on map using marker. User can also search or filter the location using the sidebar.
+This project is made using react , google Apis and some third party apis like foursquare.
+
+Through [Google Map API](https://cloud.google.com/maps-platform/) and [Foursquare Map API](https://developer.foursquare.com/)
+
+*Note* Please replace the keys with your keys by creating accounts in Googlemap and Foursqaure APIs.
+
+#`Language Usage`
+
+1. HTML5
+2. CSS3
+3. JS Framework :- REACT
+
+## Prerequisites
+* `npm` installed version 6.2.0 or higher  
+              or        
+* `yarn` installed version 1.10.1 or higher
+
+## Other resources
+* [Foursquare Place API](https://developer.foursquare.com/places-api)
+* [Google Developer Documentation](https://developers.google.com/maps/documentation/javascript/tutorial)
 
 ## Available Scripts
 
