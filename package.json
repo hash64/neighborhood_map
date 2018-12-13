@@ -2,6 +2,7 @@
   "name": "neighborhood-map",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://hash64.github.io/neighborhood_map/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
