@@ -1,8 +1,5 @@
 # Neighborhood Map (React)
 
-##Project 
-Project link is [http://hash64.github.io/neighborhood_map](http://hash64.github.io/neighborhood_map) .
-
 ## About 
 This is last project of Udacity front end nanodegree. In this project, there is a map and some nearby locations are shown on map using marker. User can also search or filter the location using the sidebar.
 This project is made using react , google Apis and some third party apis like foursquare.
