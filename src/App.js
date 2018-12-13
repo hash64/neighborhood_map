@@ -9,7 +9,7 @@ class App extends Component {
   initMap() {
     let map = new window.google.maps.Map(document.getElementById('map'), {
           center:  {lat: 19.0760, lng: 72.8777},
-          zoom: 18
+          zoom: 14
   });
     window.mapObject =map;
 }
